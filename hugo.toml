@@ -30,7 +30,7 @@ disableThemeToggle = false
 
 [params.homeInfoParams]
 Title = "Hi there 👋"
-Content = "Welcome to my blog. I write about tech, hosting, and things I learn along the way."
+Content = "Welcome to my blog. We might be in the EndGame. But we still have a lot to play for."
 
 [[params.socialIcons]]
 name = "github"

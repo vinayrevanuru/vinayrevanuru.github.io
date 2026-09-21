@@ -9,28 +9,6 @@ This is my first post on my brand new blog, running on [Hugo](https://gohugo.io/
 
 ## Why a blog?
 
-To write down what I learn — mostly about tech, hosting, and the stuff I tinker with.
+To write down what I learn . Lot of cool things are going on around the world and  there is no time to waste!!
 
-## What works already
 
-- Code blocks with syntax highlighting:
-
-```python
-def hello():
-    print("Hello from Hugo + PaperMod!")
-```
-
-- Tags, search, archives, dark mode, RSS
-- Markdown formatting: **bold**, *italics*, [links](https://gohugo.io)
-
-## Publishing
-
-When I hit *publish*, it's just:
-
-```bash
-git add . && git commit -m "new post" && git push
-```
-
-… and the site rebuilds automatically. 
-
-More soon.

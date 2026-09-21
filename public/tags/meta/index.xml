@@ -2,34 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Meta on Yaniv&#39;s Blog</title>
-    <link>http://localhost:1313/tags/meta/</link>
+    <link>https://blog.vinay.win/tags/meta/</link>
     <description>Recent content in Meta on Yaniv&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 20 Sep 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.vinay.win/tags/meta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World — My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://blog.vinay.win/posts/my-first-post/</link>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://blog.vinay.win/posts/my-first-post/</guid>
       <description>&lt;p&gt;This is my first post on my brand new blog, running on &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; with the &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt; theme.&lt;/p&gt;
 &lt;h2 id=&#34;why-a-blog&#34;&gt;Why a blog?&lt;/h2&gt;
-&lt;p&gt;To write down what I learn — mostly about tech, hosting, and the stuff I tinker with.&lt;/p&gt;
-&lt;h2 id=&#34;what-works-already&#34;&gt;What works already&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Code blocks with syntax highlighting:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff79c6&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#50fa7b&#34;&gt;hello&lt;/span&gt;():
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#8be9fd;font-style:italic&#34;&gt;print&lt;/span&gt;(&lt;span style=&#34;color:#f1fa8c&#34;&gt;&amp;#34;Hello from Hugo + PaperMod!&amp;#34;&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;Tags, search, archives, dark mode, RSS&lt;/li&gt;
-&lt;li&gt;Markdown formatting: &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italics&lt;/em&gt;, &lt;a href=&#34;https://gohugo.io&#34;&gt;links&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;publishing&#34;&gt;Publishing&lt;/h2&gt;
-&lt;p&gt;When I hit &lt;em&gt;publish&lt;/em&gt;, it&amp;rsquo;s just:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git add . &lt;span style=&#34;color:#ff79c6&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; git commit -m &lt;span style=&#34;color:#f1fa8c&#34;&gt;&amp;#34;new post&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#ff79c6&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; git push
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;… and the site rebuilds automatically.&lt;/p&gt;</description>
+&lt;p&gt;To write down what I learn . Lot of cool things are going on around the world and  there is no time to waste!!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
